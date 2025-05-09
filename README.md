@@ -44,11 +44,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanrc&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de Johan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johanrdz11&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de Johan" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johanrc&theme=tokyonight" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johanrdz11&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
 ---
